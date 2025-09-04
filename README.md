@@ -51,14 +51,19 @@ The waveforms of **clk**, **rst**, **m (mode)**, and **count\[3:0]** were obtain
 
 📌 Attached Screenshots (from MobaXterm & SimVision):
 
-* [Screenshot 1](sandbox:/mnt/data/Screenshot%202025-09-04%20084525.png)
-* [Screenshot 2](sandbox:/mnt/data/Screenshot%202025-09-04%20084734.png)
-* [Screenshot 3](sandbox:/mnt/data/Screenshot%202025-09-04%20084844.png)
-* [Screenshot 4](sandbox:/mnt/data/Screenshot%202025-09-04%20085050.png)
-* [Screenshot 5](sandbox:/mnt/data/Screenshot%202025-09-04%20085121.png)
-* [Screenshot 6](sandbox:/mnt/data/Screenshot%202025-09-04%20085856.png)
-* [Screenshot 7](sandbox:/mnt/data/Screenshot%202025-09-04%20085907.png)
-* [Screenshot 8](sandbox:/mnt/data/Screenshot%202025-09-04%20091148.png)
+* [Screenshot 1]<img width="1920" height="1080" alt="Screenshot 2025-09-04 084525" src="https://github.com/user-attachments/assets/e13579ac-4676-4972-9ae1-b1b5d05af07b" />
+
+* [Screenshot 2]<img width="1920" height="1080" alt="Screenshot 2025-09-04 084844" src="https://github.com/user-attachments/assets/98bd9ee6-49ec-44b7-9157-b94cf4fb6c03" />
+
+* [Screenshot 3]<img width="1920" height="1080" alt="Screenshot 2025-09-04 085121" src="https://github.com/user-attachments/assets/878f8bac-96c5-4788-9539-3b785b6876d9" />
+
+* [Screenshot 4]<img width="1920" height="1080" alt="Screenshot 2025-09-04 085826" src="https://github.com/user-attachments/assets/9c88fc35-80c5-424a-8bfa-b36e07e5e02f" />
+
+* [Screenshot 5]<img width="1920" height="1080" alt="Screenshot 2025-09-04 085856" src="https://github.com/user-attachments/assets/48cf832c-9e72-4844-9076-ff6dcdedebe3" />
+
+* [Screenshot 6]<img width="1920" height="1080" alt="Screenshot 2025-09-04 085907" src="https://github.com/user-attachments/assets/aa04f416-8011-48d0-9f85-1f888f55fd7a" />
+
+* [Screenshot 7]<img width="1920" height="1080" alt="Screenshot 2025-09-04 091148" src="https://github.com/user-attachments/assets/b550d924-33b2-4b0b-8872-3770fec02304" />
 
 ---
 
