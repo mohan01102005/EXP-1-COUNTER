@@ -1,8 +1,4 @@
-Got it 👍 You want me to prepare a **lab record** for the **Counter experiment using Cadence tool (via MobaXterm)** with proper format like **Aim, Apparatus, Steps, Output (Screenshots attached)**.
 
-Here’s a structured record you can directly use:
-
----
 
 # **Experiment: Counter Simulation using Cadence Tool (MobaXterm)**
 
