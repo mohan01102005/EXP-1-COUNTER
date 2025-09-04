@@ -68,4 +68,3 @@ The counter was successfully designed and simulated using Verilog HDL in Cadence
 
 ---
 
-👉 Do you want me to make this into a **Word file with all screenshots inserted properly** (like a lab record submission), or just keep it as text format?
